@@ -22,6 +22,9 @@
   "config": {
     "bin-dir": "bin"
   },
+  "bin": [
+    "bin/opus-update.php"
+  ],
   "extra": {
     "branch-alias": {
       "dev-master": "4.5.x-dev"
