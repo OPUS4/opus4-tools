@@ -9,7 +9,7 @@
   "homepage": "https://opus4.kobv.de/",
   "license": "GPL-2.0+",
   "require": {
-    "opus4repo/framework": ">=4.5.0-RC1"
+    "opus4-repo/framework": ">=4.5.0-RC1"
   },
   "autoload": {
     "psr-0": {
