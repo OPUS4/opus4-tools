@@ -63,7 +63,6 @@ set_include_path(
 );
 
 require_once 'autoload.php';
-require_once 'opus-php-compatibility.php';
 
 // environment initializiation
 $application = new Zend_Application(
